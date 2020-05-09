@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/acushlakoncept/natour-landing-page/issues"
   },
-  "homepage": "https://github.com/acushlakoncept/natour-landing-page#readme"
+  "homepage": "https://github.com/acushlakoncept/natour-landing-page#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
 }
