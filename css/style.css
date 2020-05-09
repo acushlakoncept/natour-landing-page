@@ -7,11 +7,14 @@ Dark green: #28b485
 
 */
 
-* {
+*,
+*::after,
+*::before {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: inherit;
 }
+
 html {
   /* Default browser font-size is 16px */
   /* Since we want 10px as our default 10/16 gives 62.5% */
@@ -25,6 +28,8 @@ body {
   line-height: 1.7;
   color: #777;
   padding: 3rem;
+
+  box-sizing: border-box;
 }
 
 .header {
@@ -42,17 +47,17 @@ body {
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 }
 
-.logo-box {
+.header__logo-box {
   position: absolute;
   top: 4rem;
   left: 4rem;
 }
 
-.logo {
+.header__logo {
   height: 3.5rem;
 }
 
-.text-box {
+.header__text-box {
   position: absolute;
   top: 40%;
   left: 50%;
@@ -68,7 +73,7 @@ body {
   margin-bottom: 6rem;
 }
 
-.heading-primary-main {
+.heading-primary--main {
   display: block;
   font-size: 6rem;
   font-weight: 400;
@@ -76,7 +81,7 @@ body {
 
   animation: moveInLeft 1s ease-in;
 }
-.heading-primary-sub {
+.heading-primary--sub {
   display: block;
   font-size: 2rem;
   font-weight: 700;
