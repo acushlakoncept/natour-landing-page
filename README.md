@@ -27,6 +27,11 @@
 - How to create a background video covering an entire section;
 - How to use the `<video>` HTML element
 - How and when to use the `object-fit` property
+- How to implement "solid-color gradients"
+- How the general and adjacent sibling selectors work and why it's needed
+- How to use the `::input-placeholder` pseudo-element
+- How and when to use the `:focus, :invalid, placeholder-shown` and `:checked` pseudo-classes
+- Techniques to build custom radio buttons.
 
 ## Built With
 
