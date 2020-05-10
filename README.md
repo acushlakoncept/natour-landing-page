@@ -18,3 +18,6 @@
 - Transforming multiple properties simultaneously;
 - How to use the outline-offset property together with outline
 - Styling elements that are NOT hovered while others are.
+- How to include and use an icon font
+- Creating skewed section design
+- How and when to use the direct child selector
