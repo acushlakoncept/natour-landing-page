@@ -2,14 +2,13 @@
 
 @font-face {
   font-family: "linea-basic-10";
-  src:url("fonts/linea-basic-10.eot");
-  src:url("fonts/linea-basic-10.eot?#iefix") format("embedded-opentype"),
+  src: url("fonts/linea-basic-10.eot");
+  src: url("fonts/linea-basic-10.eot?#iefix") format("embedded-opentype"),
     url("fonts/linea-basic-10.woff") format("woff"),
     url("fonts/linea-basic-10.ttf") format("truetype"),
     url("fonts/linea-basic-10.svg#linea-basic-10") format("svg");
   font-weight: normal;
   font-style: normal;
-
 }
 
 [data-icon]:before {
@@ -228,7 +227,7 @@
   content: "!";
 }
 .icon-basic-magic-mouse:before {
-  content: "\"";
+  content: '"';
 }
 .icon-basic-magnifier:before {
   content: "#";
