@@ -14,3 +14,7 @@
 - How the :not pseudo-class works;
 - How calc() works, and what's the difference between calc() and simple Sass operations
 - Coded our own grid system
+- How to use the background-clip property
+- Transforming multiple properties simultaneously;
+- How to use the outline-offset property together with outline
+- Styling elements that are NOT hovered while others are.
