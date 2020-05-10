@@ -18,6 +18,10 @@
 - Transforming multiple properties simultaneously;
 - How to use the outline-offset property together with outline
 - Styling elements that are NOT hovered while others are.
+- How to use perspective in CSS
+- How to use the backface-visibility property
+- Using background blend modes
+- How and when to use box-decoration-break;
 
 ## Built With
 
