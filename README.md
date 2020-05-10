@@ -22,6 +22,11 @@
 - How to use the backface-visibility property
 - Using background blend modes
 - How and when to use box-decoration-break;
+- How to make text flow around shapes with `shape-outside` and `float`
+- How to apply a filter to images
+- How to create a background video covering an entire section;
+- How to use the `<video>` HTML element
+- How and when to use the `object-fit` property
 
 ## Built With
 
