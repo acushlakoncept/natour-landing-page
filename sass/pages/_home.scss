@@ -13,4 +13,11 @@
     ),
     url(../img/nat-4.jpg);
   background-size: cover;
+  transform: skewY(-6deg);
+  margin-top: -10rem;
+
+  // using the direction child element selector
+  & > * {
+    transform: skewY(6deg);
+  }
 }
