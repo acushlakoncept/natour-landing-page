@@ -13,3 +13,4 @@
 - How the attribute selector works;
 - How the :not pseudo-class works;
 - How calc() works, and what's the difference between calc() and simple Sass operations
+- Coded our own grid system
