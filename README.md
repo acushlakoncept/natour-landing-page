@@ -32,6 +32,10 @@
 - How to use the `::input-placeholder` pseudo-element
 - How and when to use the `:focus, :invalid, placeholder-shown` and `:checked` pseudo-classes
 - Techniques to build custom radio buttons.
+- Implemented a "checkbox hack"
+- Created custom animation timing functions using cubic bezier curves;
+- How to animate "solid-color gradients"
+- How and why to use `transform-origin`
 
 ## Built With
 
