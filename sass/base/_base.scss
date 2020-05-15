@@ -11,6 +11,22 @@ html {
   /* Since we want 10px as our default 10/16 gives 62.5% */
   //   It defines what 1rem is
   font-size: 62.5%;
+
+  // @include respond(phone) {
+  //   font-size: 50%;
+  // }
+
+  // @include respond(tab-port) {
+  //   font-size: 60%;
+  // }
+
+  // @include respond(tab-land) {
+  //   font-size: 70%;
+  // }
+
+  // @include respond(big-desktop) {
+  //   font-size: 80%;
+  // }
 }
 
 body {

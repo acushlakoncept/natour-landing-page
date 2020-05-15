@@ -1,3 +1,17 @@
+/*
+0 -600px: Phone
+600 - 900px: Tablet portrait
+900 - 1200px: Tablet landscape
+1200 - 1800px is where our normal styles apply
+1800px - Big desktop
+*/
+/*
+$breakpoint argument choices
+-phone
+-tab-port
+-tab-land
+-big-desktop 
+*/
 @keyframes moveInLeft {
   0% {
     opacity: 0;
