@@ -36,6 +36,9 @@
 - Created custom animation timing functions using cubic bezier curves;
 - How to animate "solid-color gradients"
 - How and why to use `transform-origin`
+- How to use the `srcset` attribute on the `<img>` and `<source>` elements, together with density descriptors;
+- How and why to use the `<picture>` element for art direction;
+- How to write media queries in HTML
 
 ## Built With
 

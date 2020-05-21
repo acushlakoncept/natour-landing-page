@@ -21,11 +21,6 @@
 1200 - 1800px is where our normal styles apply
 1800px - Big desktop
 */
-@mixin respond-phone {
-  @media (max-width: 600px) {
-    @content;
-  }
-}
 
 /*
 $breakpoint argument choices
@@ -34,6 +29,7 @@ $breakpoint argument choices
 -tab-land
 -big-desktop 
 */
+
 @mixin respond($breakpoint) {
   @if $breakpoint == phone {
     @media (max-width: 37.5em) {
