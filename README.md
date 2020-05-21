@@ -39,6 +39,7 @@
 - How to use the `srcset` attribute on the `<img>` and `<source>` elements, together with density descriptors;
 - How and why to use the `<picture>` element for art direction;
 - How to write media queries in HTML
+- Working with responsive images: serve the _right image_ to the _right screen size_ and device, in order to avoid downloading unnecessary large images on smaller screens.
 
 ## Built With
 
